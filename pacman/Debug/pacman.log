@@ -1,0 +1,10 @@
+﻿  Main.cpp
+d:\ai\pacman\pacman\pacman\main.cpp(809): warning C4018: '<': signed/unsigned mismatch
+d:\ai\pacman\pacman\pacman\main.cpp(878): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+d:\ai\pacman\pacman\pacman\main.cpp(1378): warning C4101: 'pacmanAngle': unreferenced local variable
+d:\ai\pacman\pacman\pacman\main.cpp(1644): warning C4101: 'j': unreferenced local variable
+d:\ai\pacman\pacman\pacman\main.cpp(1644): warning C4101: 'i': unreferenced local variable
+d:\ai\pacman\pacman\pacman\main.cpp(1691): warning C4101: 'j': unreferenced local variable
+d:\ai\pacman\pacman\pacman\main.cpp(1691): warning C4101: 'i': unreferenced local variable
+  pacman.vcxproj -> D:\AI\pacman\pacman\Debug\pacman.exe
+  pacman.vcxproj -> D:\AI\pacman\pacman\Debug\pacman.pdb (Full PDB)
