@@ -1,7 +1,5 @@
 # PacmanAI
 
-PACMAN – AI course
-
 The project contains 3 monsters: Red, Turquoise and Green, one yellow Pacman and about 300 coins distributed over the game board.
 
 ## GAME BOARD:
