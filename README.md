@@ -32,5 +32,4 @@ After the nearest coin is set, Pacman will start A* search for path to that coin
 <br/>
 ## Board View
 
-![Alt Text](https://github.com/HadarPur/PacmanAI/blob/master/PacmanBoard.png)
-
+<img src="https://github.com/HadarPur/PacmanAI/blob/master/PacmanBoard.png" width="500" height="500" />
