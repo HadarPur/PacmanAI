@@ -25,5 +25,5 @@ It starts with searching the nearest coin to its location when considering the d
 After the nearest coin is set, Pacman will start A* search for path to that coin (the A* algorithm of Pacman is different from monster's). Pacman is allowed to move only straight (up, down, left, right) it's not allowed to move diagonal, while monsters can, so the A* algorithm is processing the possible path accordingly (not as we did in class). If it found a path to the coin, then it's ready to move, and it will move every 2 CPU clocks (as the turquoise monster). If it didn’t find path to coin, it will be ready to move after 600 A* iterations and the will search for a new coin to reach.
 
 
-![Alt Text](https://github.com/HadarPur/MinesweeperIOS/blob/master/Pacman board.png)
+![Alt Text](https://github.com/HadarPur/PacmanAI/blob/master/PacmanBoard.png)
 
