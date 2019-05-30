@@ -27,6 +27,6 @@ After the nearest coin is set, Pacman will start A* search for a path to that co
 <br/>
 ## Board View
 
-<img src="https://github.com/HadarPur/PacmanAI/blob/master/PacmanBoard.png" width="500" height="500" />
+<!-- <img src="https://github.com/HadarPur/PacmanAI/blob/master/PacmanBoard.png" width="500" height="500" /> -->
 
 ![](PacmanGIF.gif)
